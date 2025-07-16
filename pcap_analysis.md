@@ -94,7 +94,7 @@ Here is the list of domains I identified. Given that they were all making traffi
 ![angular](evidence/angularwhois.png)
 ![angular](evidence/angularwhois2.png)
 
-![angular](evidence/fullscan.jpg)
+![angular](evidence/fullscan.png)
 
 ## ✅ What Was Analyzed and Final Resolution
 
