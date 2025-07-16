@@ -1,7 +1,5 @@
 # 🎯 PCAP Analysis – Fireworks Phishing Investigation
 
-## 📝 INCLUDE COMMANDS USED PLEASE (FILTERS)
-
 ## 📌 What Happened
 
 On Wednesday, June 25, 2025, at 12:02:43 PM, SentinelOne, and Zscaler flagged a suspicious email that was sent internally. Within Microsft Defender we were able to view more in depth of what was flagged and what happened within our proxy server we have here at the department. The email appeared to promote fireworks safety, linking to the site `mysafela[.]org/fireworks`. 
