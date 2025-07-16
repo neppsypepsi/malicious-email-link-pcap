@@ -4,11 +4,13 @@
 
 ## 📌 What Happened
 
-On Wednesday, June 25, 2025, at 12:02:43 PM, SentinelOne flagged a suspicious email that was sent internally. Within Microsft Defender we were able to view more in depth of what was flagged and what happened within our proxy server we have here at the department. The email appeared to promote fireworks safety, linking to the site `mysafela[.]org/fireworks`. 
+On Wednesday, June 25, 2025, at 12:02:43 PM, SentinelOne, and Zscaler flagged a suspicious email that was sent internally. Within Microsft Defender we were able to view more in depth of what was flagged and what happened within our proxy server we have here at the department. The email appeared to promote fireworks safety, linking to the site `mysafela[.]org/fireworks`. 
 
 With the help of ANY.RUN we were able to use a sandboxed enviroment to simulate use on the website. At first glance, the site looked legitimate and displayed normal public content. There were no immediate red flags in the page when it was initially loaded. However, after normal use on the page, there was two possible sudden behavior changes. One being A fake security pop-up appeared, claiming the user's PC was infected and for the user to call a phone number. Then within this pop-up, scareware-style audio played to simulate urgency. Or the second outcome being a microsoft page urging to update the users browser. Below you can see the two scenarios from a users standpoint. 
 ![scan1](evidence/scan1.png)
-![scan2](evidence/scan2.png)
+![scan2](evidence/updatemicro.png)
+
+
 ![defender](evidence/Defender.png)
 ![defender](evidence/Defender2.png)
 ![zscaler](evidence/zscaler.png)
